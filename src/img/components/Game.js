@@ -43,7 +43,6 @@ const StyledGame = styled(motion.div)`
     width: 100%;
     height: 40vh;
     object-fit: cover;
-    background: #e4e4e4;
   }
   cursor: pointer;
 `;
